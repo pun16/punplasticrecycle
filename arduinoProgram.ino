@@ -5,7 +5,8 @@
 
 // # put in lcd display for information
 // # implament heater time out from extruder not running
-// # implament interger base command/pramater
+// # implament interger base command/pramater ie "G3 100" -> "1 100"
+// # remove the lilParser libery
 
 
 
